@@ -1,0 +1,14 @@
+Milan, 859
+Taranto, 0
+Bari, 79
+Reggio Calabria, 296
+Naples, 256
+Roma, 529
+Ancona, 467
+Bologna, 660
+Venice, 684
+Verona, 752
+Bolzano Bozen, 823
+Turin, 634
+Genoa, 810
+Florence, 614

@@ -1,0 +1,22 @@
+Milan,Verona, 140
+Milan,Bologna, 200
+Milan,Turin, 126
+Milan,Genoa, 119
+Verona,Bolzano Bozen, 122
+Verona,Venice, 106
+Bologna,Ancona, 198
+Bologna,Florence, 80
+Turin,Genoa, 122
+Genoa,Bologna, 193
+Genoa,Florence, 200
+Genoa,Roma, 403
+Venice,Bologna, 130
+Ancona,Roma, 208
+Ancona,Bari, 392
+Florence,Roma, 232
+Roma,Bari, 375
+Roma,Naples, 189
+Bari,Taranto, 75
+Naples,Bari, 219
+Naples,Taranto, 252
+Naples,Reggio Calabria, 328
