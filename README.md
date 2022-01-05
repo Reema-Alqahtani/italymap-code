@@ -1,1 +1,1 @@
-# italymap-code
+# italymap A*
